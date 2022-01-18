@@ -1,0 +1,111 @@
+#bio{
+    background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }  
+    #info{
+        background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+        }
+    #logo{
+        background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+    #founder{
+        background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+    #principal{
+        background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+
+
+    #bod{
+        background-image: url("Nasr School_Logo.jpeg");
+
+    }
+
+
+    #contacts{
+        background:#012e01;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+
+
+    .menu{
+        list-style: none;
+        font-family: helvetica;
+        float: right;
+        top: 10px;
+        right: 30px;
+        cursor: pointer;
+        color: white;
+        font-size: 20px;
+    }
+    .links{
+        color: antiquewhite;
+        display: inline;
+        padding-top: 5px;
+        padding-left: 9px;
+        padding-right: 9px;
+        padding-bottom: 5px;
+    }
+    img {
+        transition: transform .2s; 
+        border: 10px solid #AAAAAA;
+    } 
+    img:hover {
+        transform: scale(0.9);
+    }
+
+
+    #contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : black;
+    font-size: 25px;
+
+
+}
+
+.bottom{
+    color: rgb(252, 0, 0);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
